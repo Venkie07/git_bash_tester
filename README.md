@@ -9,7 +9,7 @@
 ## 🧐 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=7A3FF7&center=true&vCenter=true&width=600&lines=Based+in+%E2%9C%8C%EF%B8%8F+Chennai;AI+%26+Data+Science+Student+(2024%E2%80%932028);Passionate+About+Deep+Learning+%26+Neural+Nets;Musician+%7C+Gamer+%7C+Sports+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=7A3FF7&center=true&vCenter=true&width=600&lines=Based+in+%E2%9C%8C%EF%B8%8F+Chennai;AI+%26+Data+Science+Student+(2024%E2%80%932028);Passionate+About+Deep+Learning+%26+Neural+Nets;Gamer+%7C+Sports+Enthusiast" alt="Typing SVG" />
 </p>
 
 I'm a curious problem-solver who believes in balancing technical challenges with emotional intelligence. Whether I'm debugging code or exploring new concepts, I approach everything with passion and a growth mindset.
@@ -17,7 +17,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 - **🔭 Currently Exploring:** Deep Learning Architectures & Generative AI
 - **⚡ Core Traits:** Adaptable • Team Player • Quick Learner • Detail-Oriented
 - **🎲 Beyond Code:**
-  - 🎹 Playing Piano & Guitar
   - 🎮 Competitive Gaming
   - 🏐 Volleyball & Cricket
   - ⚗️ Mathematics & Chemistry Enthusiast
@@ -154,7 +153,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
       </b><br><br><br>
       <b><b>⏳ Profile Views Counter</b>
       <br>
-      <br>
       <img src="https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge" 
            width="200" 
            alt="Profile Views"
@@ -174,8 +172,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 <br>
 <br>
 
-⏳ **Profile Views Counter**  
-![Profile Views](https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge)
 
 
 </div>
