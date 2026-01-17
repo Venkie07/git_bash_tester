@@ -159,8 +159,12 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 </p>
 <br>
 <br>
+
 ⏳ **Profile Views Counter**  
 ![Profile Views](https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge)
+
+
+</div>
 
 
 
