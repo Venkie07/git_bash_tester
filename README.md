@@ -132,12 +132,34 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Venkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkie07&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkie07&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkie07&theme=radical&bg_color=0d1117&color=7A3FF7&line=7A3FF7&point=ffffff&hide_border=true" 
+       width="96%" 
+       alt="Venkie's GitHub Activity Graph"
+    />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkie07&theme=radical&hide_border=true)
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Venkie07&theme=radical&hide_border=true" 
+       width="500" 
+       alt="Venkie's GitHub Streak"
+    />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkie07&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=7A3FF7&title_color=7A3FF7&text_color=ffffff&border_radius=10&v=2" 
+       width="30%" 
+       style="display: inline-block;" 
+       alt="Venkie's Top Languages"
+    />
+</p>
+
+⏳ **Profile Views Counter**  
+![Profile Views](https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge)
 
 
 </div>
