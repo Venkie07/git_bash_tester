@@ -55,22 +55,19 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 ---
 
-## ⚡ Projects & Fun Facts
+## 🚀 Featured Projects
 
 <div align="center">
-  
-### **🎯 Featured Projects**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **KyroConnect** | Innovative connectivity app | Android, Firebase |
-| **Annam** | Food-related application | Python, ML |
+
+### **🌟 Live Projects**
+
+| Project | Description | Live Demo | Tech Stack |
+|---------|-------------|-----------|------------|
+| **Cancer Survival Predictor** | ML model to predict cancer survival rates | [Live Demo ↗](https://cancer-survival-predictor.onrender.com/) | Python, ML, Flask |
+| **KyroConnect** | Innovative connectivity app | Coming Soon | Android, Firebase |
+| **Annam** | Food-related application | Coming Soon | Python, ML |
 
 </div>
-
-### **✨ Quick Facts**
- - 🚀 Built multiple apps out of pure curiosity & learning drive
- - 💡 Believe that AI is the tool to invent our future
- - 🎯 **Personal Motto:** *"Balance challenge and growth. Aim high, learn faster, and enjoy the journey!"*
 
 ---
 
@@ -82,12 +79,12 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 <p align="center">
   <!-- Phone -->
-  <a href="tel:+917338721949" style="text-decoration: none;">
+  <a href="tel:+917338721949" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/📞_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="Phone" />
   </a>
   
   <!-- Email -->
-  <a href="mailto:venkateswaran01092007@gmail.com" style="text-decoration: none;">
+  <a href="mailto:venkateswaran01092007@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   
@@ -144,12 +141,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 ---
 
-<p align="center">
-  <i>Let's discuss AI, music, gaming, or just have a great conversation! 😄</i>
-</p>
-
----
-
 <div align="center">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=Venkie07&color=7A3FF7&style=flat-square)
@@ -157,3 +148,9 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 </div>
 
 *Made with ❤️ by Venkie*
+
+---
+
+## 🎯 Personal Motto
+
+> ***"Balance challenge and growth. Aim high, learn faster, and enjoy the journey!"*** ✨
