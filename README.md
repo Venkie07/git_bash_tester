@@ -156,7 +156,7 @@ I'm a curious problem-solver who believes in balancing technical challenges with
       <br>
       <br>
       <img src="https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge" 
-           width="250" 
+           width="200" 
            alt="Profile Views"
       />
     </td>
