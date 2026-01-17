@@ -133,11 +133,12 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 <div align="center">
   
-![Venkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkie07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7&text_color=ffffff)
+![Venkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkie07&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkie07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkie07&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkie07&theme=radical&hide_border=true&background=0d1117&stroke=7A3FF7&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkie07&theme=radical&hide_border=true)
+
 
 </div>
 
@@ -149,7 +150,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 </div>
 
-*Made with ❤️ by Venkie*
 
 ---
 
