@@ -74,33 +74,75 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 ---
 
-## 📊 GitHub Analytics
+## 📞 Connect With Me
 
 <div align="center">
+
+### **Get in Touch!**
+
+<p align="center">
+  <!-- Phone -->
+  <a href="tel:+917338721949" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📞_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="Phone" />
+  </a>
   
-![Venkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkateswaran-k&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7&text_color=ffffff)
+  <!-- Email -->
+  <a href="mailto:venkateswaran01092007@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/917338721949" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswaran-k&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&text_color=ffffff)
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/venkateswaran-k-401573340" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/venkates_._2007" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💜_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Venkie07" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkateswaran-k&theme=radical&hide_border=true&background=0d1117&stroke=7A3FF7&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7)
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Venkie_/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/👨‍💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode" />
+  </a>
+  
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/venkie_" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/👾_HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkateswaran-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="mailto:venkateswarank@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/venkateswaran-k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+<div align="center">
+  
+![Venkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkie07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkie07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkie07&theme=radical&hide_border=true&background=0d1117&stroke=7A3FF7&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7)
+
+</div>
+
+---
 
 <p align="center">
   <i>Let's discuss AI, music, gaming, or just have a great conversation! 😄</i>
@@ -110,7 +152,7 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=venkateswaran-k&color=7A3FF7&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Venkie07&color=7A3FF7&style=flat-square)
 
 </div>
 
