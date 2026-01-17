@@ -157,20 +157,11 @@ I'm a curious problem-solver who believes in balancing technical challenges with
        alt="Venkie's Top Languages"
     />
 </p>
-
+<br>
+<br>
 ⏳ **Profile Views Counter**  
 ![Profile Views](https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge)
 
-
-</div>
-
----
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Venkie07&color=7A3FF7&style=flat-square)
-
-</div>
 
 
 ---
