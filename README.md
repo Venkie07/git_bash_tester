@@ -151,7 +151,9 @@ I'm a curious problem-solver who believes in balancing technical challenges with
            alt="Venkie's GitHub Streak"
       /><br><br>
       <!-- Profile Views Counter -->
-      ⏳ **Profile Views Counter**<br>
+      ## ⏳ Profile Views Counter
+      <br>
+      <br>
       <img src="https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge" 
            width="250" 
            alt="Profile Views"
