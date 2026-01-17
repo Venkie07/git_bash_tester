@@ -149,14 +149,6 @@ I'm a curious problem-solver who believes in balancing technical challenges with
     />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-Venkie07.vercel.app/api/top-langs/?username=Venkie07&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10&v=2" 
-       width="30%" 
-       style="display: inline-block;" 
-       alt="Venkie's Top Languages"
-    />
-</p>
 <br>
 <br>
 
