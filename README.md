@@ -64,8 +64,10 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 | Project | Description | Live Demo | Tech Stack |
 |---------|-------------|-----------|------------|
 | **Cancer Survival Predictor** | ML model to predict cancer survival rates | [Live Demo ↗](https://cancer-survival-predictor.onrender.com/) | Python, ML, Flask |
-| **KyroConnect** | Innovative connectivity app | Coming Soon | Android, Firebase |
-| **Annam** | Food-related application | Coming Soon | Python, ML |
+| **KyroQR** | Customizable QR code generator with custom styles, colors, logos, and instant preview | [Live Demo ↗](https://venkie07.github.io/kyroqr/) | HTML, CSS, JavaScript |
+| **Kyro Hub** | Centralized hub to access all your important and frequently used websites | [Live Demo ↗](https://venkie07.github.io/central.hub/) | HTML, CSS, JavaScript |
+| **MediLink** | Unified healthcare management platform connecting patients, doctors, labs, pharmacies, and admins | [Live Demo ↗](https://venkie07.github.io/medilink-frontend/index.html) | HTML, CSS, JavaScript |
+| **Terminal Web Hub** | Persistent, customizable link hub to store websites with easy names and navigate instantly using commands | [Live Demo ↗](https://venkie07.github.io/terminal/) | HTML, CSS, JavaScript |
 
 </div>
 
