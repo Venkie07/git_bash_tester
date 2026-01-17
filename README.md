@@ -131,40 +131,28 @@ I'm a curious problem-solver who believes in balancing technical challenges with
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
+<!-- Activity Graph full width -->
 <p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkie07&theme=radical&bg_color=0d1117&color=7A3FF7&line=7A3FF7&point=ffffff&hide_border=true" 
-       width="96%" 
-       alt="Venkie's GitHub Activity Graph"
-    />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkie07&theme=radical&bg_color=0d1117&color=7A3FF7&line=7A3FF7&point=ffffff&hide_border=true" width="96%" alt="Venkie's GitHub Activity Graph" />
 </p>
 
-<p align="left>
+<!-- Streak + Profile Views side by side with Top Languages -->
+<table align="center">
+  <tr>
+    <!-- Left column: Streak + Profile Views -->
+    <td align="center" valign="top">
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com?user=Venkie07&theme=radical&hide_border=true" width="300" alt="Venkie's GitHub Streak"/><br><br>
+      <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge" width="200" alt="Profile Views"/>
+    </td>
 
-## Streak ❤️‍🔥
-
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Venkie07&theme=radical&hide_border=true" 
-       width="500" 
-       alt="Venkie's GitHub Streak"
-    />
-</p>
-
-<br>
-<br>
-
-⏳ **Profile Views Counter**  
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge)
-
-
-</div>
+    <!-- Right column: Top Languages -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-highmachs.vercel.app/api/top-langs/?username=Venkie07&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10&v=2" width="300" alt="Venkie's Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 
 
