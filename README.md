@@ -141,8 +141,12 @@ I'm a curious problem-solver who believes in balancing technical challenges with
     />
 </p>
 
+<p align="left>
 
 ## Streak ❤️‍🔥
+
+</p>
+
 <p align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Venkie07&theme=radical&hide_border=true" 
