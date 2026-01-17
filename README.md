@@ -141,17 +141,18 @@ I'm a curious problem-solver who believes in balancing technical challenges with
     />
 </p>
 
-<table align="center" style="border:none;">
+<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <!-- Left column: Streak + Profile Views -->
-    <td align="center" valign="top" style="border:none;">
+    <td align="center" valign="top" style="border:none;padding:0; margin:0;">
       <!-- Streak Stats -->
       <img src="https://streak-stats.demolab.com?user=Venkie07&theme=radical&hide_border=true" 
            width="500" 
            alt="Venkie's GitHub Streak"
       /><br><br>
       <!-- Profile Views Counter -->
-      <b><b>⏳ Profile Views Counter</b></b><br><br><br>
+      </b><br><br><br>
+      <b><b>⏳ Profile Views Counter</b>
       <br>
       <br>
       <img src="https://komarev.com/ghpvc/?username=Venkie07&color=blueviolet&style=for-the-badge" 
@@ -160,7 +161,7 @@ I'm a curious problem-solver who believes in balancing technical challenges with
       />
     </td>
     <!-- Right column: Top Languages -->
-    <td align="center" valign="top" style="border:none;">
+    <td align="center" valign="top" style="border:none;padding:0; margin:0;">
       <img src="https://github-readme-stats-highmachs.vercel.app/api/top-langs/?username=Venkie07&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10&v=2" 
            width="300" 
            style="display: inline-block;" 
